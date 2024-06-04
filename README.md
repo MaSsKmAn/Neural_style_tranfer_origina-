@@ -1,3 +1,5 @@
 # Neural_style_tranfer_original
-We have built this Deep Learning Neural Style transfer model which can help you to improve the way you learn to style the existing image, the main purpose is to perfect the skill of style transfer using computer based architecture, we hope to get the images for you perfect and quick.
-![Alt_text](images/stylized_image%20(5).jpg)
+The code aims to achieve a proficiency at a begineer level and provide an interface which can do things like style transfer in the way you imagine, the thing is that it is not onlystyle tranfer but also making stylised image better using the python libraries.
+
+![Alt_text](images/stylized_image%20(5).jpg) ![Alt text](images/stylized_image%20(9).jpg)
+These are the samples that we have created from the existing neural style transfer model and this is just the beginning of achieving the state of the art performance from the existing model.
