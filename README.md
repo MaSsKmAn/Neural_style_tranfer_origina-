@@ -1,4 +1,4 @@
-# Neural_style_tranfer_original
+# Neural style tranfer original
 The code aims to achieve a proficiency at a begineer level and provide an interface which can do things like style transfer in the way you imagine, the thing is that it is not onlystyle tranfer but also making stylised image better using the python libraries.
 
 ORIGINAL IMAGES
