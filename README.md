@@ -28,6 +28,9 @@ The weights for the style and content image control the importance that we want 
 # Training
 There are less steps which we have incorporated in the code because we have kept the learning rate a little high, during the training you can see the changes that are being made to the image and you get the final image stored and saved for you.
 
+# Improving the style
+The created image is good but still we can make some improvement to make it better so i have added sharpening and contrast to the given image to make the image smooth and bright.
+
 Created with Love,
 
 Vishesh Bhardwaj
