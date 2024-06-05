@@ -26,7 +26,7 @@ We have used the Adam optimizer and have choosen a high value for the learning r
 The weights for the style and content image control the importance that we want to give to the respective images and this requires a greater optimization and hit and trail for getting it to the art level.
 
 # Training
-There are less steps which we have incorporated in the code because we have kept the learning rate a little high, during the training you can see the changes that are being made to the image and you get the final image stored and saved for you.
+There are less steps which we have incorporated in the code because we have kept the learning rate a little high, during the training you can see the changes that are being made to the image and you get the final image stored and saved for you. The average runtime for it is 5 minutes which for the initial level is real good.
 
 # Improving the style
 The created image is good but still we can make some improvement to make it better so i have added sharpening and contrast to the given image to make the image smooth and bright.
